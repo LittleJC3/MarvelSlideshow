@@ -1,0 +1,9 @@
+ * {box-sizing: border-box;}
+
+img {width: 600px;
+    height: 500px}
+
+.allOfThis{
+    max-width: 500px;
+    margin: auto;
+}
